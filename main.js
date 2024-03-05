@@ -1,7 +1,7 @@
-import {View} from "./modules/view.js";
-import {Api} from "./modules/api.js";
-import {Search} from "./modules/search.js";
-import {Log} from "./modules/log.js";
+import {View} from "./view.js";
+import {Api} from "./api.js";
+import {Search} from "./search.js";
+import {Log} from "./log.js";
 
 class App {
   constructor(view) {
